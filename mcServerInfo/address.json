@@ -1,0 +1,35 @@
+{
+    "count": 3,
+    "addresses": [
+        {
+            "je": {
+                "addrs": "mc.mjyy.top",
+                "port": "25565"
+            },
+            "be": {
+                "addrs": "mc.mjyy.top",
+                "port": "19132"
+            }
+        },
+        {
+            "je": {
+                "addrs": "je.mjyy.top",
+                "port": "30303"
+            },
+            "be": {
+                "addrs": "be.mjyy.top",
+                "port": "30303"
+            }
+        },
+        {
+            "je": {
+                "addrs": "sp.mjyy.top",
+                "port": "25565"
+            },
+            "be": {
+                "addrs": "sp.mjyy.top",
+                "port": "19132"
+            }
+        }
+    ]
+}
