@@ -24,11 +24,11 @@
         {
             "je": {
                 "addrs": "sp.mjyy.top",
-                "port": "25565"
+                "port": "30303"
             },
             "be": {
                 "addrs": "sp.mjyy.top",
-                "port": "19132"
+                "port": "30303"
             }
         }
     ]

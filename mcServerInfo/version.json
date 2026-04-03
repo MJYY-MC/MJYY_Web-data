@@ -2,6 +2,6 @@
     "serverVersion": "1.21.11",
     "javaVersionMin": "1.9",
     "javaVersionMax": "1.21.x",
-    "bedrockVersionMin": "1.21.111",
-    "bedrockVersionMax": "1.21.130"
+    "bedrockVersionMin": "1.21.130",
+    "bedrockVersionMax": "26.10"
 }
