@@ -2,6 +2,6 @@
     "serverVersion": "26.2",
     "javaVersionMin": "1.9",
     "javaVersionMax": "26.2.x",
-    "bedrockVersionMin": "[基岩版暂不可用]",
-    "bedrockVersionMax": "[基岩版暂不可用]"
+    "bedrockVersionMin": "26.0",
+    "bedrockVersionMax": "26.33"
 }
